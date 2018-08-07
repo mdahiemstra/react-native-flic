@@ -1,0 +1,20 @@
+{
+  "name": "react-native-flic",
+  "version": "1.0.0",
+  "description": "PBF Flic SDK wrapper for React-Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "flic",
+    "pbf flic",
+    "pbf flic sdk"
+  ],
+  "author": "Michel Hiemstra <michel.hiemstra@opencii.nl>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
